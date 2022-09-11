@@ -14,16 +14,4 @@ D'autant plus que la plupart des formations proposées sont en anglais, même si
 
 [Linkedin]( https://www.linkedin.com/in/thomas-viaud/)
 
-## Certifications
 
-Cette liste répertorie toutes les certifications que je souhaiterais passer :
-
-- [X] Formation Devops via Groupe IB Formaiton 2022
-- [ ] DASA Devops Fundamentals (DevOps Agile Skills Association)
-- [ ] AWS Cloud Practicionner
-- [ ] AWS Solution Architect Associate
-- [ ] Docker Certified Associate 
-- [ ] Kubernetes Clous Native 
-- [ ] Kubernetes Certified Administrator (CKA)
-- [ ] Kubernetes Certified Security Specialist (CKS)
-- [ ] Kubernetes Application Developper (CKAD)
