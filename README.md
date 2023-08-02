@@ -8,9 +8,6 @@ Je m'appelle Thomas VIAUD, et je suis dans le Devops seulement depuis le début 
 
 Ayant passé 15 ans dans l'environnement aéronautique, j'ai décidé d'évoluer dans un nouveau domaine qui est pour moi l'avenir : **le Devops & Cloud**
 
-Cette reconversion professionnelle n'est clairement pas aussi facile que l'on peut le penser, celui qui a tenté d'apprendre seul a certainement dû voir la difficulté de l'auto-formation, que ce soit dans l'IT, le Devops ou le cloud. 
-
-D'autant plus que la plupart des formations proposées sont en anglais, même si je suis bilingue, cela pêut rapidement s'avérer difficile. Mais pas impossible! 
 
 [Linkedin]( https://www.linkedin.com/in/thomas-viaud/)
 
